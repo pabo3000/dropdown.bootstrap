@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>1000</version>
+  <dependencies>
+    <dependency>profile-plonetheme.bootstrap:default</dependency>
+    <dependency>profile-webcouturier.dropdown:default</dependency>
+  </dependencies>
+</metadata>
