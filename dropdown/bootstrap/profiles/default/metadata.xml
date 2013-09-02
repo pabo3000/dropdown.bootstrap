@@ -3,6 +3,6 @@
   <version>1000</version>
   <dependencies>
     <dependency>profile-plonetheme.bootstrap:default</dependency>
-    <dependency>profile-webcouturier.dropdown:default</dependency>
+    <dependency>profile-webcouturier.dropdownmenu:default</dependency>
   </dependencies>
 </metadata>

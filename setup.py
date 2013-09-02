@@ -27,7 +27,7 @@ setup(name='dropdown.bootstrap',
           'setuptools',
           # -*- Extra requirements: -*-
           'plonetheme.bootstrap',
-          'webcouturier.dropdown',
+          'webcouturier.dropdownmenu',
       ],
       entry_points="""
       # -*- Entry points: -*-
